@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,strip_bom",
+    "logging_enabled": "false",
+    "name": "strip_bomSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "strip_bomSmokeTest.js"
+}
